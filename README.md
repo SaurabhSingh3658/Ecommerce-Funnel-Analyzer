@@ -1,1 +1,1 @@
-# Ecommerce-Funnel-Analyzer
+# funnel_mechanism_project
